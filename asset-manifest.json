@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videostreaming-Platform/static/css/main.7aef133c.css",
+    "main.js": "/videostreaming-Platform/static/js/main.0df5d9a0.js",
+    "static/media/yt-logo-mobile.png": "/videostreaming-Platform/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/videostreaming-Platform/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/videostreaming-Platform/index.html",
+    "main.7aef133c.css.map": "/videostreaming-Platform/static/css/main.7aef133c.css.map",
+    "main.0df5d9a0.js.map": "/videostreaming-Platform/static/js/main.0df5d9a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aef133c.css",
+    "static/js/main.0df5d9a0.js"
+  ]
+}
